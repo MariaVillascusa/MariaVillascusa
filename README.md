@@ -44,7 +44,7 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-20232A.svg?style=for-the-badge&logo=git&logoColor=F05033"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37"></a>
-<a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-white.svg?style=for-the-badge&logo=phpstorm&logoColor=black"></a>
+<a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-8941E0.svg?style=for-the-badge&logo=phpstorm&logoColor=black"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p><br/>
 
