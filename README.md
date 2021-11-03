@@ -6,11 +6,10 @@
          width="30" />
    I'm Maria
 </h1>
-<p align="center">
+<br/>
   
- ## Current tools 
 
-### Programming language
+## Programming language
 
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
@@ -22,7 +21,7 @@
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-white?style=for-the-badge&logo=markdown&logoColor=black"></a>
     
- ### Frameworks and libraries
+ ## Frameworks and libraries
   
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
@@ -30,13 +29,13 @@
 <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white"></a>
 <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-666DF2.svg?style=for-the-badge&logo=test-tube&logoColor=white"></a>
 
- ### Databases and cloud hosting
+ ## Databases and cloud hosting
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
   
- ### Software and tools
+ ## Software and tools
     
 <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/Mac%20OS-white.svg?style=for-the-badge&logo=apple&logoColor=black"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
@@ -47,7 +46,8 @@
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37"></a>
 <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-white.svg?style=for-the-badge&logo=phpstorm&logoColor=black"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-</p><br>
+</p><br/>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaVillascusa&layout=compact&hide=html" alt="MariaVillascusa" />
@@ -56,7 +56,8 @@
 --->
 </p>
 
-<br><hr>
+<br/>
+<hr/>
 
 <p align="center">
 <a href="mailto:maria.villascusa@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&logoColor=white)"></a>
