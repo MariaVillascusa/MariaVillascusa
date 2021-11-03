@@ -35,9 +35,9 @@
 --->
 </p>
 
-
+<!---
 ![apple](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
-
+--->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaVillascusa&layout=compact&hide=html" alt="MariaVillascusa" />
   <!---
