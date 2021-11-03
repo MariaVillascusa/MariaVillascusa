@@ -62,21 +62,12 @@
 <p align="center">
 <a href="mailto:maria.villascusa@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&logoColor=white)"></a>
 <a href="https://github.com/MariaVillascusa"><img alt="Github" src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)"></a>
-<a href="https://www.linkedin.com"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)"></a>
+<a href="https://www.linkedin.com/in/maria-villascusa-marin-57b935224/"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)"></a>
 </p>
 
 
 ✌️
 
-
-<!---
-
-- What I mostly work on: 
-
-![MacOS]() ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) 
-
---->
 
 
 <!---
